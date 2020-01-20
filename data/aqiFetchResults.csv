@@ -1,0 +1,39 @@
+index,aqi,city,lat,lon,time,population,url
+3309,25,New York,40.7127837,-74.0059413,2019-02-19 6:00,8175133,https://aqicn.org/city/newyork
+5914,25,Toronto,43.653226,-79.3831843,2019-02-19 7:00,2600000,https://aqicn.org/city/toronto
+243,21,Los Angeles-North Main Street,34.06653,-118.22676,2019-02-19 14:00,3971883,https://aqicn.org/city/losangeles/los-angeles-north-main-street
+10133,82,"Vancouver International Airport #2, British Comlumbia, Canada",49.1864,-123.1522,2019-02-19 13:00,600000,https://aqicn.org/city/british-comlumbia/vancouver-international-airport--2
+5483,16,"Edmonton East, Alberta, Canada",53.5482115,-113.3680856,2019-02-19 15:00,712391,https://aqicn.org/city/canada/alberta/edmonton-east
+5477,36,"Calgary Central 2, Alberta, Canada",51.0471506,-114.0731477,2019-02-19 15:00,1019942,https://aqicn.org/city/canada/alberta/calgary-central-2
+5922,21,Montreal,45.5086699,-73.5539925,2019-02-19 6:00,1600000,https://aqicn.org/city/montreal
+3576,30,Boston Roxbury,42.3294,-71.0825,2019-02-19 17:00,667137,https://aqicn.org/city/usa/massachusett/boston/roxbury
+371,55,"Santos, São Paulo, Brazil",-23.9628155,-46.3202369,2019-02-19 20:00,10021295,https://aqicn.org/city/brazil/sao-paulo/santos
+3548,123,"Celaya Tecnologico, Celaya, Mexico",20.54506305,-100.8073145,2019-02-19 16:00,340387,https://aqicn.org/city/mexico/celaya/celaya-tecnologico
+2290,142,"Minowa, Taito, Tokyo, Japan ",35.729528,139.79133,2019-02-20 6:00,8336599,https://aqicn.org/city/japan/taitoku/meijidoriozekiyokocho
+1975,72,"Kyoto Prefecture, Japan ",34.9028063,135.6884756,2019-02-20 6:00,1459640,https://aqicn.org/city/japan/otokunigunoyamazakimachi/kokudoichinanaichigo
+5508,104,Seoul ,37.566535,126.9779692,2019-02-19 21:00,10349312,https://aqicn.org/city/seoul
+8641,68,"Hanoi US Embassy, Vietnam ",21.0215063,105.8188748,2019-02-20 5:00,1431270,https://aqicn.org/city/vietnam/hanoi/us-embassy
+4693,46,"Bangkok University Rangsit Campus, Pathum Thani, Thailand ",14.04029931,100.6087396,2019-02-20 4:00,5104476,https://aqicn.org/city/thailand/pathum-thani/bangkok-university-rangsit-campus
+1591,70,"Banqiao, Taiwan ",25.012972,121.458667,2019-02-20 6:00,543342,https://aqicn.org/city/taiwan/banciao
+1666,61,"Central, Singapore",1.3666667,103.8,2019-02-20 7:00,3547809,https://aqicn.org/city/singapore/central
+8648,175,Jakarta South ,-6.236704,106.79324,2019-02-20 5:00,8540121,https://aqicn.org/city/indonesia/jakarta/us-consulate/south
+3308,65,HongKong ,22.396428,114.109497,2019-02-19 20:00,7012738,https://aqicn.org/city/hongkong
+9723,396,"Beijing Bazhong Gu'an Branch, Langfang ",39.46,116.28,2019-02-20 6:00,11716620,https://aqicn.org/city/hebei/langfangshi/beijingbazhongguanfenxiao
+1437,95,Shanghai ,31.2047372,121.4489017,2019-02-20 6:00,22315474,https://aqicn.org/city/shanghai
+7020,182,"Mumbai US Consulate, India ",19.07283,72.88261,2019-02-20 4:00,12691836,https://aqicn.org/city/india/mumbai/us-consulate
+10114,357,"Delhi Institute of Tool Engineering, Wazirpur, Delhi, Delhi, India",28.700505,77.165603,2019-02-20 4:00,10927986,https://aqicn.org/city/delhi/delhi-institute-of-tool-engineering--wazirpur
+8190,128,"BTM, Bangalore, India",12.91281111,77.60921944,2019-02-20 3:00,5104047,https://aqicn.org/city/india/bangalore/btm
+5543,50,Osaka ,34.6937378,135.5021651,2019-02-19 21:00,2592413,https://aqicn.org/city/osaka
+1806,55,"yeon, Jeju-si, Jeju, South Korea ",33.48863,126.500055,2019-02-20 8:00,408364,https://aqicn.org/city/korea/jeju/jeju-si
+8781,162,"Dhaka US Consulate, Bangladesh ",23.796373,90.424614,2019-02-20 4:00,10356500,https://aqicn.org/city/bangladesh/dhaka/us-consulate
+5724,52,London,51.5073509,-0.1277583,2019-02-19 11:00,7556900,https://aqicn.org/city/london
+5722,60,Paris,48.856614,2.3522219,2019-02-19 12:00,2138551,https://aqicn.org/city/paris
+9438,107,"Gramsci, Firenze, Italy",43.77058591,11.27141533,2019-02-18 23:00,349296,https://aqicn.org/city/italy/toscana/firenze/fi-gramsci
+6132,17,"Berlin, Germany",52.5200066,13.404954,2019-02-19 23:00,3426354,https://aqicn.org/city/germany/berlin
+10533,33,Barcelona ,41.42608,2.1479921,2019-02-19 22:00,1621537,https://aqicn.org/city/spain/catalunya/barcelona-parc-vall-dhebron
+3330,34,"Spirid, Moscow, Moscow, Russia ",55.7602761,37.5914501,2019-02-20 1:00,10381222,https://aqicn.org/city/moscow/spirid
+8776,85,"Fatih, Turkey",40.999223,39.694384,2019-02-20 1:00,425875,https://aqicn.org/city/turkey/trabzon/fatih
+9470,160,"Kampala US Embassy, Uganda",0.300225,32.591553,2019-02-20 0:00,1353189,https://aqicn.org/city/uganda/kampala/us-embassy
+10752,2,"Diepkloof, Johannesburg Metro, South Africa",-26.250736,27.956447,2019-02-19 18:00,2026469,https://aqicn.org/city/south-africa/johannesburg-metro/diepkloof
+9059,59,"Addis Ababa US Embassy, Ethiopia",9.058498,38.761642,2019-02-20 0:00,2757729,https://aqicn.org/city/ethiopia/addis-ababa/us-embassy
+10141,28,"Melbourne CBD, Australia",-37.813611,144.963056,2019-02-20 8:00,4246375,https://aqicn.org/city/australia/melbourne/melbourne-cbd
